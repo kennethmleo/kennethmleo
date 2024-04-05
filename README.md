@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kennethmleo and I am an MS Physics student of National Institute of Physics, UP Diliman.
+- 👋 Hi, I’m @kennethmleo and I am a PhD Physics student of National Institute of Physics, UP Diliman.
 - 👀 I’m interested in works involving network modelling and data analysis, manipulation, and visualization.
-- 🌱 I’m currently doing network simulations for my MS thesis.
+- 🌱 I’m currently doing network simulations for my PhD thesis.
 - 📫 You can reach me on my emails kmleo@up.edu.ph or kenneth.m.leo@gmail.com
 
 <!---
